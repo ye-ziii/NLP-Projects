@@ -17,8 +17,14 @@ This project aims to analyze 200K+ news articles on Data Science, Machine Learni
 
 **NLP Techniques Used:**  Topic Modeling, Sentiment Analysis Model Customization, Targeted Sentiment Identification, Text Summarization, and Name Entity Recognition.
 
-**Corresponding Files:**
+**Files:**
 
 _"DS_article_nlp_analysis.ipynb": actual code with details about datasets, project major sections, and authors._
 
 _"DS_article_nlp_analysis.pdf": PDF presentation slides of the core business insights, findings, key conclusions, and recommendations._
+
+### Project 2: Topic Modeling Analysis
+This project aims to apply appropriate topic modeling techniques to identify the top N most important topics respectively from a collection of tweets and a collection of news articles about one particular company. 
+
+**Files:**
+_"topic_modeling.ipynb": actual code with details about dataset, project major sections, and authors._
