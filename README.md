@@ -27,4 +27,5 @@ _"DS_article_nlp_analysis.pdf": PDF presentation slides of the core business ins
 This project aims to apply appropriate topic modeling techniques to identify the top N most important topics respectively from a collection of tweets and a collection of news articles about one particular company. 
 
 **Files:**
+
 _"topic_modeling.ipynb": actual code with details about dataset, project major sections, and authors._
