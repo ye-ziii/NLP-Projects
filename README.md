@@ -29,3 +29,10 @@ This project aims to apply appropriate topic modeling techniques to identify the
 **Files:**
 
 _"topic_modeling.ipynb": actual code with details about dataset, project major sections, and authors._
+
+### Project 3: Name Entity Recognition Analysis
+This project aims to apply NER techniques to a collection of tweets and news articles about one particular company. From these text data, I identified that company name, other companies frequently mentioned along with the primary company, and frequently mentioned locations of events.
+
+**Files:**
+
+_"name_entity_recognition.ipynb": actual code with details about dataset, project major sections, and authors._
