@@ -36,3 +36,11 @@ This project aims to apply NER techniques to a collection of tweets and news art
 **Files:**
 
 _"name_entity_recognition.ipynb": actual code with details about dataset, project major sections, and authors._
+
+### Project 4: NLP Analysis of Employee Engagement Survey
+This project aims to apply NLP and data visualization techniques to automate the insight extraction of employee surveys and discover potential issues and highlights in the survey responses to help HR better design employee experience.
+
+**Files:**
+
+_"employee_survey_nlp_analysis.ipynb": actual code with details about data, project major sections, and authors._
+_Note: the helper functions used in this notebook are imported from another utility file, which isn't included in this repo for company privacy protection._
